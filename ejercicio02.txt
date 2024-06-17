@@ -1,0 +1,12 @@
+Análisis de Ventas Semanales
+Objetivo: Cargar datos de ventas semanales de productos y realizar análisis estadísticos básicos y visualizaciones utilizando un archivo CSV.
+
+Descripción del Ejercicio:
+Cargar Datos: Lee el archivo CSV que contiene las ventas semanales de diferentes productos.
+Análisis Básico:
+Calcular las ventas totales, promedio, mínimas y máximas por producto.
+Determinar qué producto tuvo las mayores ventas totales.
+Visualización:
+Crea un gráfico de barras que muestre las ventas totales por producto.
+Interacción:
+Implementar un menú interactivo que permita seleccionar un producto y mostrar los datos relevantes. Incluir una opción para cerrar el programa (opción 0).

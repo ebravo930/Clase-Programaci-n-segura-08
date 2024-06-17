@@ -1,0 +1,9 @@
+Análisis Detallado de Temperaturas con Visualización
+Objetivo: Mejorar el análisis de temperaturas diarias agregando visualizaciones detalladas para cada ciudad utilizando Matplotlib.
+
+Enunciado:
+Cargar Datos: Utiliza Pandas para cargar un archivo CSV con temperaturas diarias de ciudades como Nueva York, Londres, Tokio y Santiago.
+Análisis Estadístico:
+Calcula y muestra estadísticas básicas como la temperatura promedio, mínima y máxima para cada ciudad.
+Visualización Mejorada:
+Genera un gráfico de barras y un gráfico de líneas en la misma figura para mostrar las temperaturas mínimas, máximas y promedio durante la semana.

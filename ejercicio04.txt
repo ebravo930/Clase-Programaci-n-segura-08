@@ -1,0 +1,9 @@
+Análisis de Ventas con Comparación Gráfica
+Objetivo: Ampliar el análisis de ventas semanales incorporando gráficos comparativos de ventas utilizando Matplotlib.
+
+Enunciado:
+Cargar Datos: Lee un archivo CSV que contiene las ventas semanales de productos como Product A y Product B.
+Análisis Comparativo:
+Calcula las ventas totales y promedio por producto.
+Visualización Comparativa:
+Crea un gráfico que compare las ventas totales y otro que compare las ventas promedio de los productos utilizando gráficos de barras.

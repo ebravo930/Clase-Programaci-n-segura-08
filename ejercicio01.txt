@@ -1,0 +1,14 @@
+Análisis de Temperaturas Diarias
+Objetivo: Cargar datos de temperaturas de diversas ciudades y realizar análisis estadísticos básicos y visualizaciones.
+
+Descripción del Ejercicio:
+
+Cargar Datos: Lee el archivo CSV que contiene las temperaturas diarias de ciudades como Nueva York, Londres, Tokio y Santiago.
+Análisis Básico:
+Calcular la temperatura promedio, mínima y máxima por ciudad.
+Determinar qué ciudad tuvo la temperatura promedio más alta durante la semana.
+Visualizar las temperaturas de los últimos tres días para una ciudad seleccionada.
+Visualización:
+Crea un gráfico de líneas que muestre la temperatura a lo largo de la semana para cada ciudad.
+Interacción:
+Implementar un menú interactivo que permita seleccionar una ciudad y mostrar los datos relevantes. Incluir una opción para cerrar el programa (opción 0).
